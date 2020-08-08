@@ -16,7 +16,9 @@ public class Prueba {
      */
     public static void main(String[] args) {
         System.out.println("mi pana nextbeans");
+        System.out.println("Mi pana alfredo");
         System.out.println("y mi pana miguel");
+        
     }
     
 }
